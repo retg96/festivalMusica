@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/retg96/festivalMusica#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
   },
   "dependencies": {
     "gulp-dart-sass": "^1.0.2"
